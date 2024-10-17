@@ -26,4 +26,5 @@ int main()
 	// to destroy the message queue
 	msgctl(msgid, IPC_RMID, NULL);
 	return 0;
+	
 }

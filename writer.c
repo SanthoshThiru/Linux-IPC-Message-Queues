@@ -24,4 +24,5 @@ int main()
 	// display the message 
 	printf("Data send is : %s \n", message.mesg_text); 
 	return 0; 
+    
 } 
