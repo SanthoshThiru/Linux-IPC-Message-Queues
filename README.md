@@ -89,9 +89,9 @@ int main()
 ````
 
 
-## OUTPUT
+## OUTPUT:
 
-![alt text](image.png)
+![alt text](<Screenshot 2024-10-18 011311.png>)
 
 
 # RESULT:
